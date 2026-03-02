@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js build outputs
+/.next/
+/out/
+build/
+dist/
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables (CRITICAL: Protects your Groq & Upstash keys)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+.DS_Store
+*.pem
+
+# typescript
+*.tsbuildinfo
+
+# local data / ingested files (Optional: prevents uploading massive textbooks to GitHub)
+*.pdf
+data/
