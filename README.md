@@ -30,8 +30,8 @@ An intelligent, stateful Retrieval-Augmented Generation (RAG) system built with 
 
 ### 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/yourusername/agentic-rag-bot.git
-cd agentic-rag-bot
+git clone https://github.com/yourusername/raggy.git
+cd raggy
 \`\`\`
 
 ### 2. Install dependencies
